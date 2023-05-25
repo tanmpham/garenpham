@@ -3,7 +3,7 @@
 My name is Phạm Minh Tân and I'm a CIT student at BCIT, majoring in full stack
 web developments.. I was born and raised in Vietnam and am now located in
 Vancouver, Canada. You can find me on
-<a href="https://www.linkedin.com/in/phamminhtan/" target="_blank" rel="noreferrer">LinkedIn</a>.
+<a href="https://www.linkedin.com/in/garenpham/" target="_blank" rel="noreferrer">LinkedIn</a>.
 
 # 📊 Projects
 
