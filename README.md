@@ -348,6 +348,16 @@ am now located in Vancouver, Canada. You can find me on
 			width="40"
 			height="40" />
 	</a>
+	<a
+		href="https://www.vagrantup.com/"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_96102ac6497377cd53da621075fe828e/sanity.png"
+			alt="vagrant"
+			width="40"
+			height="40" />
+	</a>
 </p>
 
 <br/>
