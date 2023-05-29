@@ -219,6 +219,26 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
+		href="https://kubernetes.io"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+			alt="kubernetes"
+			width="40"
+			height="40" />
+	</a>
+	<a
+		href="https://www.docker.com/"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+			alt="docker"
+			width="40"
+			height="40" />
+	</a>
+	<a
 		href="https://aws.amazon.com"
 		target="_blank"
 		rel="noreferrer">
@@ -249,16 +269,6 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
-		href="https://www.docker.com/"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-			alt="docker"
-			width="40"
-			height="40" />
-	</a>
-	<a
 		href="https://expressjs.com"
 		target="_blank"
 		rel="noreferrer">
@@ -285,16 +295,6 @@ am now located in Vancouver, Canada. You can find me on
 		<img
 			src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
 			alt="gcp"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://kubernetes.io"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-			alt="kubernetes"
 			width="40"
 			height="40" />
 	</a>
