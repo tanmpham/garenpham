@@ -1,8 +1,10 @@
 # <img src="./wave.gif" width="30px" height="30px" /> Hi there!
 
-My name is Phạm Minh Tân and I'm a CIT student at BCIT, majoring in full stack
-web developments.. I was born and raised in Vietnam and am now located in
-Vancouver, Canada. You can find me on
+My name is Garen Pham and I’m a Computer Information Technology student at
+British Columbia Institute of Technology, majoring in full stack web
+development. I’m passionate about coding and enjoy building web applications
+that are both functional and user-friendly. I was born and raised in Vietnam and
+am now located in Vancouver, Canada. You can find me on
 <a href="https://www.linkedin.com/in/garenpham/" target="_blank" rel="noreferrer">LinkedIn</a>.
 
 # 📊 Projects
@@ -47,3 +49,11 @@ Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=E55137)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=308446)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazonaws&logoColor=white&color=308446)
+
+### Profile Views:
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/garenpham/)
+
+### 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
