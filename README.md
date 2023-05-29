@@ -353,7 +353,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_96102ac6497377cd53da621075fe828e/sanity.png"
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sanity-square-logo.png/640px-Sanity-square-logo.png"
 			alt="vagrant"
 			width="40"
 			height="40" />
