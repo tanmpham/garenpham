@@ -49,8 +49,7 @@ am now located in Vancouver, Canada. You can find me on
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=E55137)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=308446)
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=flat&logo=amazonaws&logoColor=white&color=308446)
-
-### Profile Views:
+<br/> <br/>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=garenpham)
 
