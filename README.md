@@ -52,7 +52,7 @@ am now located in Vancouver, Canada. You can find me on
 
 ### Profile Views:
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/garenpham/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=garenpham)
 
 ### 😂 Here is a random joke that'll make you laugh!
 
