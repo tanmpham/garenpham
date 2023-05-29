@@ -149,6 +149,36 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
+		href="https://getbootstrap.com"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+			alt="bootstrap"
+			width="40"
+			height="40" />
+	</a>
+	<a
+		href="https://www.chartjs.org"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://www.chartjs.org/media/logo-title.svg"
+			alt="chartjs"
+			width="40"
+			height="40" />
+	</a>
+	<a
+		href="https://travis-ci.org"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"
+			alt="travisci"
+			width="40"
+			height="40" />
+	</a>
+	<a
 		href="https://git-scm.com/"
 		target="_blank"
 		rel="noreferrer">
@@ -195,26 +225,6 @@ am now located in Vancouver, Canada. You can find me on
 		<img
 			src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
 			alt="bash"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://getbootstrap.com"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-			alt="bootstrap"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://www.chartjs.org"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://www.chartjs.org/media/logo-title.svg"
-			alt="chartjs"
 			width="40"
 			height="40" />
 	</a>
@@ -325,16 +335,6 @@ am now located in Vancouver, Canada. You can find me on
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 			alt="python"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://travis-ci.org"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg"
-			alt="travisci"
 			width="40"
 			height="40" />
 	</a>
