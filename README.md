@@ -285,8 +285,8 @@ am now located in Vancouver, Canada. You can find me on
 		<img
 			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png"
 			alt="aws"
-			width="40"
-			height="40" />
+			width="34"
+			height="34" />
 	</a>
 	<a
 		href="https://www.gnu.org/software/bash/"
