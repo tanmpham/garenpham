@@ -229,6 +229,16 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
+		href="https://www.python.org"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			alt="python"
+			width="40"
+			height="40" />
+	</a>
+	<a
 		href="https://www.docker.com/"
 		target="_blank"
 		rel="noreferrer">
@@ -239,32 +249,12 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
-		href="https://azure.microsoft.com/en-in/"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-			alt="azure"
-			width="40"
-			height="40" />
-	</a>
-	<a
 		href="https://cloud.google.com"
 		target="_blank"
 		rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
 			alt="gcp"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://www.python.org"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-			alt="python"
 			width="40"
 			height="40" />
 	</a>
@@ -345,6 +335,16 @@ am now located in Vancouver, Canada. You can find me on
 		<img
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 			alt="nodejs"
+			width="40"
+			height="40" />
+	</a>
+	<a
+		href="https://azure.microsoft.com/en-in/"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+			alt="azure"
 			width="40"
 			height="40" />
 	</a>
