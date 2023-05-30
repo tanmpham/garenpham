@@ -293,7 +293,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png"
 			alt="bash"
 			width="40"
 			height="40" />
