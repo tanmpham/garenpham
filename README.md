@@ -313,7 +313,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png"
+			src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
 			alt="flask"
 			width="40"
 			height="40" />
