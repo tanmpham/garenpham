@@ -33,7 +33,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
 			alt="typescript"
 			width="40"
 			height="40" />
@@ -43,7 +43,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
 			alt="javascript"
 			width="40"
 			height="40" />
@@ -53,7 +53,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
 			alt="react"
 			width="40"
 			height="40" />
