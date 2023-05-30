@@ -313,7 +313,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
 			alt="express"
 			width="40"
 			height="40" />
@@ -323,7 +323,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
 			alt="nextjs"
 			width="40"
 			height="40" />
