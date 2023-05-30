@@ -63,7 +63,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
 			alt="redux"
 			width="40"
 			height="40" />
