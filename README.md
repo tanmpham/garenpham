@@ -183,7 +183,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
 			alt="jenkins"
 			width="40"
 			height="40" />
@@ -293,10 +293,10 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
 			alt="aws"
 			width="40"
-			height="34" />
+			height="40" />
 	</a>
 	<a
 		href="https://flask.palletsprojects.com/"
