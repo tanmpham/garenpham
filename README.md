@@ -213,7 +213,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
 			alt="git"
 			width="40"
 			height="40" />
