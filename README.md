@@ -289,6 +289,16 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
+		href="https://nextjs.org/"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+			alt="nextjs"
+			width="40"
+			height="40" />
+	</a>
+	<a
 		href="https://flask.palletsprojects.com/"
 		target="_blank"
 		rel="noreferrer">
@@ -305,16 +315,6 @@ am now located in Vancouver, Canada. You can find me on
 		<img
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
 			alt="express"
-			width="40"
-			height="40" />
-	</a>
-	<a
-		href="https://nextjs.org/"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-			alt="nextjs"
 			width="40"
 			height="40" />
 	</a>
