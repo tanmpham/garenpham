@@ -351,8 +351,8 @@ am now located in Vancouver, Canada. You can find me on
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  
 			alt="vscode" 
-			height="50px" 
-			style="padding-right:10px;"
+			width="40"
+			height="40"
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
 	<a
