@@ -73,7 +73,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
 			alt="mongodb"
 			width="40"
 			height="40" />
@@ -123,7 +123,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
 			alt="html5"
 			width="40"
 			height="40" />
@@ -133,7 +133,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 			alt="css3"
 			width="40"
 			height="40" />
@@ -163,7 +163,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
 			alt="bootstrap"
 			width="40"
 			height="40" />
@@ -233,7 +233,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
 			alt="docker"
 			width="40"
 			height="40" />
@@ -343,11 +343,18 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 			alt="nodejs"
 			width="40"
 			height="40" />
 	</a>
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  
+			alt="vscode" 
+			height="50px" 
+			style="padding-right:10px;"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
 	<a
 		href="https://www.vagrantup.com/"
 		target="_blank"
