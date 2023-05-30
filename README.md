@@ -279,16 +279,6 @@ am now located in Vancouver, Canada. You can find me on
 			height="40" />
 	</a>
 	<a
-		href="https://aws.amazon.com"
-		target="_blank"
-		rel="noreferrer">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png"
-			alt="aws"
-			width="40"
-			height="34" />
-	</a>
-	<a
 		href="https://www.gnu.org/software/bash/"
 		target="_blank"
 		rel="noreferrer">
@@ -297,6 +287,16 @@ am now located in Vancouver, Canada. You can find me on
 			alt="bash"
 			width="40"
 			height="40" />
+	</a>
+	<a
+		href="https://aws.amazon.com"
+		target="_blank"
+		rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png"
+			alt="aws"
+			width="40"
+			height="34" />
 	</a>
 	<a
 		href="https://expressjs.com"
