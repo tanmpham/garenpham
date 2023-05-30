@@ -243,7 +243,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
 			alt="azure"
 			width="40"
 			height="40" />
@@ -273,7 +273,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
 			alt="linux"
 			width="40"
 			height="40" />
@@ -303,7 +303,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
 			alt="flask"
 			width="40"
 			height="40" />
@@ -333,7 +333,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
 			alt="nginx"
 			width="40"
 			height="40" />
