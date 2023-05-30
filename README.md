@@ -253,7 +253,7 @@ am now located in Vancouver, Canada. You can find me on
 		target="_blank"
 		rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
 			alt="gcp"
 			width="40"
 			height="40" />
