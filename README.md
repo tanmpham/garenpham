@@ -1,4 +1,4 @@
-# <img src="./wave.gif" width="30px" height="30px" /> Hi there!
+## <img src="./wave.gif" width="30px" height="30px" /> Hi there!
 
 My name is Garen Pham and I’m a Computer Information Technology student at
 British Columbia Institute of Technology, majoring in full stack web
@@ -7,7 +7,7 @@ that are both functional and user-friendly. I was born and raised in Vietnam and
 am now located in Vancouver, Canada. You can find me on
 <a href="https://www.linkedin.com/in/garenpham/" target="_blank" rel="noreferrer">LinkedIn</a>.
 
-# 📊 Projects
+## 📊 Projects
 
 [![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham)
@@ -25,7 +25,7 @@ am now located in Vancouver, Canada. You can find me on
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garenpham&repo=amazon-fullstack&theme=algolia" />
 </a>
 
-# 🔧 Technologies and Tools
+## 🔧 Technologies and Tools
 
 <p align="left">
 	<a
