@@ -371,6 +371,8 @@ am now located in Vancouver, Canada. You can find me on
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=garenpham)
 
-#### 😂 Here is a random joke that'll make you laugh!
+[![Garen's wakatime stats](https://github-readme-stats-garenpham.vercel.app/api/wakatime?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+<!-- #### 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0) -->
