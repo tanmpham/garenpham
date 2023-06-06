@@ -9,20 +9,20 @@ am now located in Vancouver, Canada. You can find me on
 
 ## 📊 Projects
 
-[![Tan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham)
+[![Garen's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
+[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham)
 
 <a href="https://github.com/garenpham/Video-Streaming-System/tree/kubernetes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garenpham&repo=Video-Streaming-System&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=Video-Streaming-System&theme=algolia" />
 </a>
 <a href="https://github.com/garenpham/acit3855-microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garenpham&repo=acit3855-microservices&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=acit3855-microservices&theme=algolia" />
 </a>
 <a href="https://github.com/garenpham/finance-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garenpham&repo=finance-tracker&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=finance-tracker&theme=algolia" />
 </a>
 <a href="https://github.com/garenpham/amazon-fullstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=garenpham&repo=amazon-fullstack&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=amazon-fullstack&theme=algolia" />
 </a>
 
 ## 🔧 Technologies and Tools
