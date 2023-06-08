@@ -8,8 +8,8 @@ am now located in Vancouver, Canada.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garenpham/)
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:garenpham2002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Garen-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garenpham/)
+[![Mail Badge](https://img.shields.io/badge/-garenpham-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:garenpham2002@gmail.com)
 
 ## 📊 Projects
 
