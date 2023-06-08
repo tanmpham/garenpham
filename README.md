@@ -7,6 +7,7 @@ that are both functional and user-friendly. I was born and raised in Vietnam and
 am now located in Vancouver, Canada.
 
 :mailbox: Reach me out!
+
 [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garenpham/)
 [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:garenpham2002@gmail.com)
 
