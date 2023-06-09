@@ -3,8 +3,8 @@
 My name is Garen Pham and I’m a Computer Information Technology student at
 British Columbia Institute of Technology, majoring in full stack web
 development. I’m passionate about coding and enjoy building web applications
-that are both functional and user-friendly. I am currently located in Vancouver,
-BC, Canada.
+that are both functional and user-friendly. I am currently located in Burnaby,
+Canada.
 
 :mailbox: Reach me out!
 
