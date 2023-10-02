@@ -13,10 +13,10 @@ Canada.
 
 ## 📊 Projects
 
-<!-- [![Garen's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
-[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham) -->
+[![Garen's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
+[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham)
 
-<!-- <a href="https://github.com/garenpham/Video-Streaming-System/tree/kubernetes">
+<a href="https://github.com/garenpham/Video-Streaming-System/tree/kubernetes">
   <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=Video-Streaming-System&theme=algolia" />
 </a>
 <a href="https://github.com/garenpham/moments-app">
@@ -27,7 +27,7 @@ Canada.
 </a>
 <a href="https://github.com/garenpham/amazon-fullstack">
   <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=amazon-fullstack&theme=algolia" />
-</a> -->
+</a>
 
 ## 🔧 Technologies and Tools
 
