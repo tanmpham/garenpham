@@ -19,8 +19,8 @@ Canada.
 <a href="https://github.com/garenpham/Video-Streaming-System/tree/kubernetes">
   <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=Video-Streaming-System&theme=algolia" />
 </a>
-<a href="https://github.com/garenpham/acit3855-microservices">
-  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=acit3855-microservices&theme=algolia" />
+<a href="https://github.com/garenpham/moments-app">
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=moments-app&theme=algolia" />
 </a>
 <a href="https://github.com/garenpham/finance-tracker">
   <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=finance-tracker&theme=algolia" />
