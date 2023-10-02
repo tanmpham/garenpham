@@ -13,8 +13,8 @@ Canada.
 
 ## 📊 Projects
 
-[![Garen's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
-[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham)
+<!-- [![Garen's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/garenpham)
+[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/garenpham) -->
 
 <!-- <a href="https://github.com/garenpham/Video-Streaming-System/tree/kubernetes">
   <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=Video-Streaming-System&theme=algolia" />
