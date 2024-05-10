@@ -13,7 +13,7 @@ Canada.
 
 ## 📊 Projects
 
-[![Garen's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/tanmpham)
+[![Tan's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/tanmpham)
 [![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/tanmpham)
 
 <a href="https://github.com/tanmpham/Video-Streaming-System/tree/kubernetes">
