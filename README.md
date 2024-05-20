@@ -13,20 +13,20 @@ Canada.
 
 ## 📊 Projects
 
-[![Tan's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=garenpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/tanmpham)
-[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=garenpham&theme=yeblu&layout=compact)](https://github.com/tanmpham)
+[![Tan's GitHub Stats](https://github-readme-stats-garenpham.vercel.app/api?username=tanmpham&hide=issues&theme=yeblu&count_private=true&show_icons=true)](https://github.com/tanmpham)
+[![Top Langs](https://github-readme-stats-garenpham.vercel.app/api/top-langs/?username=tanmpham&theme=yeblu&layout=compact)](https://github.com/tanmpham)
 
 <a href="https://github.com/tanmpham/Video-Streaming-System/tree/kubernetes">
-  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=Video-Streaming-System&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=tanmpham&repo=Video-Streaming-System&theme=algolia" />
 </a>
 <a href="https://github.com/tanmpham/moments-app">
-  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=moments-app&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=tanmpham&repo=moments-app&theme=algolia" />
 </a>
 <a href="https://github.com/tanmpham/finance-tracker">
-  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=finance-tracker&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=tanmpham&repo=finance-tracker&theme=algolia" />
 </a>
 <a href="https://github.com/tanmpham/amazon-fullstack">
-  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=garenpham&repo=amazon-fullstack&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-garenpham.vercel.app/api/pin/?username=tanmpham&repo=amazon-fullstack&theme=algolia" />
 </a>
 
 ## 🔧 Technologies and Tools
@@ -373,10 +373,10 @@ Canada.
 
 <br/>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=garenpham)
+![Profile View Counter](https://komarev.com/ghpvc/?username=tanmpham)
 
 #### 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 
-<!-- [![Garen's wakatime stats](https://github-readme-stats-garenpham.vercel.app/api/wakatime?username=garenpham&theme=yeblu&layout=compact)](https://github.com/tanmpham) -->
+<!-- [![Garen's wakatime stats](https://github-readme-stats-garenpham.vercel.app/api/wakatime?username=tanmpham&theme=yeblu&layout=compact)](https://github.com/tanmpham) -->
